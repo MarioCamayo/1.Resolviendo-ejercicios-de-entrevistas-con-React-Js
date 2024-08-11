@@ -1,0 +1,192 @@
+[
+  {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@example.com",
+      "address": {
+          "street": "123 Fake Street",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 987 654 321",
+      "image": "https://example.com/images/john.jpg",
+      "company": {
+          "name": "Tech Solutions",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://techsolutions.com"
+  },
+  {
+      "id": 2,
+      "firstName": "Mary",
+      "lastName": "Johnson",
+      "email": "mary.johnson@example.com",
+      "address": {
+          "street": "456 Evergreen Avenue",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 912 345 678",
+      "image": "https://example.com/images/mary.jpg",
+      "company": {
+          "name": "Innovatech",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://innovatech.com"
+  },
+  {
+      "id": 3,
+      "firstName": "Luis",
+      "lastName": "Rodriguez",
+      "email": "luis.rodriguez@example.com",
+      "address": {
+          "street": "789 Pizarro Street",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 923 456 789",
+      "image": "https://example.com/images/luis.jpg",
+      "company": {
+          "name": "Creative Labs",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://creativelabs.com"
+  },
+  {
+      "id": 4,
+      "firstName": "Anna",
+      "lastName": "Brown",
+      "email": "anna.brown@example.com",
+      "address": {
+          "street": "101 Los Olivos Passage",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 934 567 890",
+      "image": "https://example.com/images/anna.jpg",
+      "company": {
+          "name": "TechnoCorp",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://technocorp.com"
+  },
+  {
+      "id": 5,
+      "firstName": "Charles",
+      "lastName": "Martinez",
+      "email": "charles.martinez@example.com",
+      "address": {
+          "street": "202 Heroes Avenue",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 945 678 901",
+      "image": "https://example.com/images/charles.jpg",
+      "company": {
+          "name": "Future Innovators",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://futureinnovators.com"
+  },
+  {
+      "id": 6,
+      "firstName": "Laura",
+      "lastName": "Hernandez",
+      "email": "laura.hernandez@example.com",
+      "address": {
+          "street": "303 Las Rosas Street",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 956 789 012",
+      "image": "https://example.com/images/laura.jpg",
+      "company": {
+          "name": "Global Tech",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://globaltech.com"
+  },
+  {
+      "id": 7,
+      "firstName": "Michael",
+      "lastName": "Garcia",
+      "email": "michael.garcia@example.com",
+      "address": {
+          "street": "404 Las Palmeras Avenue",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 967 890 123",
+      "image": "https://example.com/images/michael.jpg",
+      "company": {
+          "name": "Innovate Systems",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://innovatesystems.com"
+  },
+  {
+      "id": 8,
+      "firstName": "Sophie",
+      "lastName": "Lopez",
+      "email": "sophie.lopez@example.com",
+      "address": {
+          "street": "505 Los Almendros Street",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 978 901 234",
+      "image": "https://example.com/images/sophie.jpg",
+      "company": {
+          "name": "NextGen Tech",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://nextgentech.com"
+  },
+  {
+      "id": 9,
+      "firstName": "Andrew",
+      "lastName": "Torres",
+      "email": "andrew.torres@example.com",
+      "address": {
+          "street": "606 Las Flores Street",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 989 012 345",
+      "image": "https://example.com/images/andrew.jpg",
+      "company": {
+          "name": "Tech Innovators",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://techinnovators.com"
+  },
+  {
+      "id": 10,
+      "firstName": "Isabel",
+      "lastName": "Ramos",
+      "email": "isabel.ramos@example.com",
+      "address": {
+          "street": "707 Los Pinos Avenue",
+          "department": "Lima",
+          "country": "Peru"
+      },
+      "phone": "+51 990 123 456",
+      "image": "https://example.com/images/isabel.jpg",
+      "company": {
+          "name": "Digital Solutions",
+          "city": "Lima",
+          "country": "Peru"
+      },
+      "website": "https://digitalsolutions.com"
+  }
+]
